@@ -16,9 +16,16 @@
       "price": 12000
     },
     {
+      "id": 4,
       "name": "geladeira",
-      "price": "1990.99",
-      "id": 4
+      "price": "1990.99"
+      
+    },
+    {
+      "id": 5,
+      "name": "Televisão",
+      "price": "1490.99"
+      
     }
   ]
 }
